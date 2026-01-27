@@ -1,1 +1,2 @@
-# Laptop-Price-Analysis-Using-Machine-Learning
+This project implements a machine learning–based laptop price prediction system developed in Python using an optimized regression pipeline. The workflow includes data preprocessing, feature engineering, and model evaluation on a feature-rich dataset containing 23 hardware attributes, enabling robust learning of complex price patterns.
+Multiple regression and ensemble learning models were evaluated, with the XGBoost Regressor achieving the best performance, delivering an R² score of 0.885. The results demonstrate the model’s effectiveness in accurately estimating laptop prices based on hardware specifications, supporting data-driven pricing strategies and market analysis.
